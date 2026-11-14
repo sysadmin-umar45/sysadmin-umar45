@@ -1,6 +1,6 @@
 ### Hi, I'm Umar 👋
 
-Freelance DevOps engineer. I build secure, automated AWS infrastructure with **Terraform, Kubernetes and GitHub Actions** for startups and small teams. 5.0 on Upwork and across 125 Fiverr reviews.
+Freelance DevOps engineer. I build secure, automated AWS infrastructure with **Terraform, Kubernetes and GitHub Actions** for startups and small teams. 5.0 on Upwork and across 126 Fiverr reviews.
 
 🌐 **Website:** [devopswithumar.com](https://devopswithumar.com)
 🎯 **Free AWS Review:** [describe your setup, get the fixes that matter first](https://devopswithumar.com/checkup/)
