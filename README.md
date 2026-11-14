@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Umar 👋
 
-<!--
-**sysadmin-umar45/sysadmin-umar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance DevOps engineer. I build secure, automated AWS infrastructure with **Terraform, Kubernetes and GitHub Actions** for startups and small teams. 5.0 on Upwork and across 125 Fiverr reviews.
 
-Here are some ideas to get you started:
+🌐 **Website:** [devopswithumar.com](https://devopswithumar.com)
+🎯 **Free AWS Review:** [describe your setup, get the fixes that matter first](https://devopswithumar.com/checkup/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Free tools (run in your browser):**
+[VPC CIDR and subnet calculator](https://devopswithumar.com/tools/cidr-calculator/) ·
+[IAM and S3 policy checker](https://devopswithumar.com/tools/aws-policy-checker/) ·
+[AWS cost savings calculator](https://devopswithumar.com/tools/aws-cost-calculator/) ·
+[all tools](https://devopswithumar.com/tools/)
+
+**Guides people read most:**
+- [Why your GitHub Actions pipeline is slow, and the fix](https://devopswithumar.com/blog/github-actions-slow-pipeline/)
+- [Terraform remote state on S3 with KMS encryption and locking](https://devopswithumar.com/blog/terraform-remote-state-s3-kms/)
+- [How to unlock Terraform state (force-unlock) and recover it](https://devopswithumar.com/blog/terraform-state-lock-version-recover/)
+- [Does AWS charge for stopped instances? 3 hidden charges](https://devopswithumar.com/blog/aws-charges-billing-you-for-nothing/)
+
+**Stack:** AWS · Azure · Terraform · Kubernetes (EKS, AKS) · Helm · GitHub Actions · GitLab CI · Ansible · Docker · Prometheus · Grafana
